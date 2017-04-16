@@ -1,5 +1,5 @@
 ## Exercícios Prova Analista Desenvolvedor PHP da BDR
-Este repositório contém as soluções dos exercícios 1 a 3 requisitados na prova de Analista PHP para a BDR Talentos. O exercício 4 trata de um projeto completo e pode ser visualizado em [https://github.com/fabiosperotto/bdr-api-rest](https://github.com/fabiosperotto/bdr-api-rest)
+Este repositório contém as soluções dos exercícios 1 a 3 requisitados na prova de Analista PHP para a BDR Talentos. O exercício 4 trata de um projeto completo e pode ser visualizado em [https://github.com/fabiosperotto/bdr-api-rest](https://github.com/fabiosperotto/bdr-api-rest). Somados os dois repositórios, o tempo médio de desenvolvimento foi de 17 horas.
 
 ### Requisitos
 - Servidor web
