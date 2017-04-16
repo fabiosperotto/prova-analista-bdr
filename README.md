@@ -10,6 +10,8 @@ Este repositório contém as soluções dos exercícios 1 a 3 requisitados na pr
 
 Para instalação:
 ```bash
+$ git clone https://github.com/fabiosperotto/prova-analista-bdr.git
+$ cd prova-analista-bdr
 $ composer install
 ```
 
